@@ -1,14 +1,15 @@
 #top {
   width: 800px;
   margin: 20px auto;
-  padding:50px;
+  padding: 10px 0;
   background-color: #dcc9f4;
   text-align: center;
 }
 
 .top-child {
+  display: inline-block;
+  width: 20%;
   background-color: #ffd9df;
-  padding:5px 10%;
   
 }
 
